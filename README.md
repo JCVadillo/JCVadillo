@@ -24,4 +24,4 @@ Welcome to my GitHub profile! Here I document my hands-on projects, security lab
 ---
 
 📫 **Connect with me:**
-* LinkedIn: [https://github.com/JCVadillo/JCVadillo](https://linkedin.com)
+* LinkedIn: [https://www.linkedin.com/in/juan-carlos-vadillo/](https://linkedin.com)

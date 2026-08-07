@@ -1,5 +1,5 @@
 # Hi there! I'm JC Vadillo 👋
-### Cybersecurity Specialist in Training | SOC & Incident Response Enthusiast
+### Cybersecurity Specialist in Training | SOC & Incident Response Enthusiast 
 
 Welcome to my GitHub profile! Here I document my hands-on projects, security labs, and professional certifications in the field of Cybersecurity.
 

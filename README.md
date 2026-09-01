@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here I document my hands-on projects, security lab
 
 ## 🚀 Hands-On Practice & Labs
 * 🎯 [TryHackMe Profile (jcvc87)](https://tryhackme.com/p/jcvc87) — Check out my active learning journey, completed rooms, badges, and practical cybersecurity exercises across offensive and defensive pathways.
-* 🐉 [TryHackMe Labs](https://github.com/JCVadillo/tryhackme-labs) — Documentación de labs prácticos usando Kali Linux, John the Ripper, y herramientas de ethical hacking a través de TryHackMe.
+* 🐉 [TryHackMe Labs](https://github.com/JCVadillo/tryhackme-labs) — Hands-on labs documentation using Kali Linux, John the Ripper, and ethical hacking tools through TryHackMe.
 
 ---
 

@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here I document my hands-on projects, security lab
 ## 🚀 Hands-On Practice & Labs
   * 🎯 [TryHackMe Profile (jcvc87)](https://tryhackme.com/p/jcvc87) — Check out my active learning journey, completed rooms, badges, and practical cybersecurity exercises across offensive and defensive pathways.
   * 🐉 [TryHackMe Labs](https://github.com/JCVadillo/tryhackme-labs) — Hands-on labs documentation using Kali Linux, John the Ripper, and ethical hacking tools through TryHackMe.
-  * 🐧 [Linux Upskill](https://linuxupskillchallenge.org/) — Hands-on challenges focused on remote Linux server administration via the CLI and security hardening on a cloud virtual machine (Google Cloud Platform).
+  * 🐧 [Linux Upskill](https://github.com/JCVadillo/linux-upskill) — Hands-on challenges focused on remote Linux server administration via the CLI and security hardening on a cloud virtual machine (Google Cloud Platform).
 
 ---
 
